@@ -1,6 +1,6 @@
 # Cookie-recipe
 
-#### _ August 2020._
+#### _August 2020._
 
 #### By _**Amanda Otero**_
 
